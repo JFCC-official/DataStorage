@@ -35,6 +35,15 @@ body{
     height: 50px;
     width: 100px;
 }
+#signB{
+    position: absolute;
+    top:5px;
+    right: 105px;
+    background-color: rgb(55, 55, 55);
+    color:rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+}
 #bottom{
     position: absolute;
     top:600px;
