@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+#title{
+    position: absolute;
+    top:5px;
+    color:white;
+    font-size: 40px;
+}
+#logo_L{
+    position: absolute;
+    left:-400px;
+}
+#Text1{
+    color:white;
+    font-size: 70px;
+    position: absolute;
+    top:500px;
+    left:700px;
+}
+#dowB{
+    position: absolute;
+    top:5px;
+    right:5px;
+    background-color: rgb(55, 55, 55);
+    color:rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+}
