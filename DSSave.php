@@ -13,7 +13,7 @@
     
     <img src="DSLogoL.png" id="logo_L">
     <label id="Text1"></label><br>
-    <form action="https://jfcc-official-company-website.on.drv.tw/www.DataStorage.tx/Downloader.html?">
+    <form action="Downloader.html">
     <button id="dowB">DOWNLOAD</button>
     </form>
 </body>
