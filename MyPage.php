@@ -13,11 +13,11 @@
     
     <img src="DSLogoL.png" id="logo_L">
     <label id="Text1">Sign In:</label><br>
-    <form action="https://jfcc-official-company-website.on.drv.tw/www.DataStorage.tx/Downloader.html?">
+    <form action="Downloader.html">
     <button id="dowB">DOWNLOAD</button>
     </form>
 
-    <form action="https://jfcc-official-company-website.on.drv.tw/www.DataStorage.tx/DSSave.php" method="POST" id="Table" target="_blank">
+    <form action="http://localhost/DSSave.php" method="POST" id="Table" target="_blank">
 
     <label id=>Full Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
